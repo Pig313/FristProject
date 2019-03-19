@@ -1,0 +1,10 @@
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\obj\Debug\WinForm控件习题（问卷例子）.csprojAssemblyReference.cache
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\obj\Debug\WinForm控件习题（问卷例子）.csproj.GenerateResource.cache
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\obj\Debug\WinForm控件习题（问卷例子）.csproj.CoreCompileInputs.cache
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\W\source\repos\小问卷\WinForm控件习题（问卷调查）\obj\Debug\WindowsFormsApplication2.pdb

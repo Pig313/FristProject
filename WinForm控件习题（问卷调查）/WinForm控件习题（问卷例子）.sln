@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28711.60
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinForm控件习题（问卷例子）", "WinForm控件习题（问卷例子）.csproj", "{8EF4827C-84F4-4AE2-9820-AF918E4ADA58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EF4827C-84F4-4AE2-9820-AF918E4ADA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EF4827C-84F4-4AE2-9820-AF918E4ADA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EF4827C-84F4-4AE2-9820-AF918E4ADA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EF4827C-84F4-4AE2-9820-AF918E4ADA58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28FB8307-A3A7-4440-BB23-D75D78D8A1E3}
+	EndGlobalSection
+EndGlobal
